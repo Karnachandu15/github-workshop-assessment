@@ -7,6 +7,3 @@ This is the Git Repository which i used to practice the Concept
 2. Open the project files related to the changes that you need 
 3. Read the README file for better understanding about the repository
 
-## Folder Structure
-- README.md  
-- intro.txt
