@@ -1,6 +1,12 @@
-# github-workshop-assessment
+## Project Description
+This is the Git Repository which i used to practice the Concept
 
-### BUILDMODE 2026
-### NAME : K.CHANDRA SEKHAR
-### COLLEGE NAME : KALASALINGAM ACADEMY OF RESEARCH AND EDUCATION
-### WORKSHOP DATE : 10/02/2026
+## How to Run
+## How to Run
+1. Clone the repository of the existing to your Workspace to work on the project  
+2. Open the project files related to the changes that you need 
+3. Read the README file for better understanding about the repository
+
+## Folder Structure
+- README.md  
+- intro.txt
